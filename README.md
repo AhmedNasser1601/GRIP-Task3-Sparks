@@ -1,2 +1,8 @@
 # GRIP-Task3-Sparks
-Task3: Prediction Using Decision Tree Algorithm
+
+Name: Ahmed Nasser Ahmed Hassan
+
+GRIP : The Sparks Foundation
+
+Data Science and Business Analytics Intern
+
